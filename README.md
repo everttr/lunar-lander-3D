@@ -28,14 +28,13 @@ Note: holding down a button only triggers repeat presses after a delay, like a w
 ## Video + Screenshots
 Below is my original video demo from CS 450:
 
-[![Demo Video](https://raw.githubusercontent.com/everttr/lunar-lander-3D/main/images/lander_demo_thumbnail.png)](https://raw.githubusercontent.com/everttr/lunar-lander-3D/main/images/lander_demo.mp4)
-
+https://github.com/user-attachments/assets/b769bfe8-8ff1-4994-944e-520218073851
 
 Below are some more screenshots from the game:
 
-<img src="https://raw.githubusercontent.com/everttr/lunar-lander-3D/main/images/lander_flying.png" alt="Lunar Lander Flying" width="220"/>
+<img src="https://raw.githubusercontent.com/everttr/lunar-lander-3D/main/images/lander_flying.png" alt="Lunar Lander Flying" width="350"/>
 
-<img src="https://raw.githubusercontent.com/everttr/lunar-lander-3D/main/images/lander_crash.png" alt="Lunar Lander Crashing" width="220"/>
+<img src="https://raw.githubusercontent.com/everttr/lunar-lander-3D/main/images/lander_crash.png" alt="Lunar Lander Crashing" width="350"/>
 
 ## Building
 Load the .sln file in Visual Studio, then build the solution!
