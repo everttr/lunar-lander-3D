@@ -26,7 +26,7 @@ All game logic, shaders, and models by Reed Evertt. No rights reserved on that f
 Note: holding down a button only triggers repeat presses after a delay, like a word processor (sorry! again, this is a visual/computational showcase more than a true arcade game)
 
 ## Video + Screenshots
-Below is my original video demo from CS 450:
+Below is my original video demo from CS 450 (with narration!):
 
 https://github.com/user-attachments/assets/b769bfe8-8ff1-4994-944e-520218073851
 
