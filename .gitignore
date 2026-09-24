@@ -70,3 +70,6 @@ Testing/
 
 # also because this was back when I used vscode
 .vs/
+
+# project hierarchy-specific exclusions
+Debug/
