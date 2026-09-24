@@ -1,24 +1,23 @@
-# Lunar Lander 3D
-## *Lunar Lander Goes to Space!*
+# Lunar Lander 3D: *Lunar Lander Goes to Space!*
 
 A game about precariously landing a lunar module without blowing up. Written (nearly) from scratch in C++ & OpenGL. Made as my final project for Mike Bailey's CS 450 course at OSU. Try it! It's (almost) fun!
 
 All game logic, shaders, and models by Reed Evertt. No rights reserved on that front. The [GLUT](https://github.com/freeglut/freeglut) & [GLM](https://github.com/g-truc/glm) libraries are used, and some CS 450 template code remains (this is also why the main file is "sample.cpp" and why there's so many unused template files littering the repo; I wasn't graded on file neatness!).
 
-A Windows-playable built version of the game is available as a release on the repository.
+**A Windows-playable built version of the game is available as a release on the repository.**
 
 ## Video + Screenshots
 Below is my original video demo from CS 450:
-[![Demo Video](https://raw.githubusercontent.com/everttr/lunar-lander-3D/main/images/lunar_demo_thumbnail.png)](https://raw.githubusercontent.com/everttr/lunar-lander-3D/main/images/lunar_demo_thumbnail.mp4)
+[![Demo Video](https://raw.githubusercontent.com/everttr/lunar-lander-3D/main/images/lander_demo_thumbnail.png)](https://raw.githubusercontent.com/everttr/lunar-lander-3D/main/images/lander_demo_thumbnail.mp4)
 
 Typical Gameplay:
-![The lunar lander flying in attached camera mode](https://raw.githubusercontent.com/everttr/lunar-lander-3D/main/images/lander_flying)
+![The lunar lander flying in attached camera mode](https://raw.githubusercontent.com/everttr/lunar-lander-3D/main/images/lander_flying.png)
 
 Win State:
-![The lunar lander after successfully landing](https://raw.githubusercontent.com/everttr/lunar-lander-3D/main/images/lander_landed)
+![The lunar lander after successfully landing](https://raw.githubusercontent.com/everttr/lunar-lander-3D/main/images/lander_landed.png)
 
 Fail State:
-![The lunar lander crashing](https://raw.githubusercontent.com/everttr/lunar-lander-3D/main/images/lander_crash)
+![The lunar lander crashing](https://raw.githubusercontent.com/everttr/lunar-lander-3D/main/images/lander_crash.png)
 
 ## Features/Functionality
 - Procedurally generated terrain geometry
